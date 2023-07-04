@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ksmart
+ *
+ */
+module ksmart {
+}
